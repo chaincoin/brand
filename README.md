@@ -8,6 +8,6 @@ Chaincoin offers global payments with private secure transactions backed by one 
 
 ![Chaincoin Logo](https://github.com/lubuzzo/brand/raw/master/images/logo/side-logo.png)
 
-For more information, please vistit [Chaincoin.org](https://www.chaincoin.org)
+For more information, please visit [Chaincoin.org](https://www.chaincoin.org)
 
 
